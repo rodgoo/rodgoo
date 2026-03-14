@@ -1,6 +1,6 @@
 # Olá, eu sou o Rodrigo! 👋
 
-### 👨‍💻 Desenvolvedor em Evolução | Focado em Python & Dados
+### 👨‍💻 Desenvolvedor Back-End em Evolução | Focado em Python & Dados
 
 * Estudante de Sistemas de Informação
 * Atualmente, estou em uma jornada intensa de aprendizado para dominar o ecossistema de desenvolvimento, saindo do zero até o nível Senior. Acredito na **consistência diária nos estudos** e meu compromisso é ter o "quadradinho verde" no GitHub todos os dias, ou semana pelo menos, transformando teoria em projetos reais!
