@@ -29,4 +29,3 @@ Toda semana você encontrará um novo commit por aqui, seja um exercício de ló
 ### 📫 Como me encontrar:
 * **LinkedIn:** https://www.linkedin.com/in/rodrigo-carvalho-8919242a0/
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=rodgoo&show_icons=true&theme=dracula)
