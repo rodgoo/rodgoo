@@ -29,7 +29,3 @@ Toda semana você encontrará um novo commit por aqui, seja um exercício de ló
 ### 📫 Como me encontrar:
 * **LinkedIn:** https://www.linkedin.com/in/rodrigocarvalhom
 
-* <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-              
-
