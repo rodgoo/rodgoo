@@ -10,7 +10,7 @@
 ### 🛠 No que estou trabalhando agora:
 * 🐍 Aprofundando em **Python** para automação e back-end.
 * 🗄️ Modelando bancos de dados com **SQL**.
-* 🏗️ Consolidando projetos com a base que construí em **JavaScript, HTML5 e CSS3**.
+* 🏗️ Consolidando projetos com a base que construí em **Python, SQL, FastApi**.
 
 ### 📈 Meu Compromisso:
 > "A maestria vem da repetição." 
