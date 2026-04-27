@@ -12,10 +12,6 @@
 * 🗄️ Modelando bancos de dados com **SQL**.
 * 🏗️ Consolidando projetos com a base que construí em **Python, SQL, FastApi**.
 
-### 📈 Meu Compromisso:
-> "A maestria vem da repetição." 
-Toda semana você encontrará um novo commit por aqui, seja um exercício de lógica, uma nova rota de API ou uma query complexa.
-
 ---
 
 ### 🧰 Toolbox:
